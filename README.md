@@ -16,3 +16,5 @@ I proudly present you:
 - Unnamed tool (A pathetic attempt for an CPK unlocking tool)
   * [ ] v1.2.4 - no dowload link **(for obvious reasons)**
   * [ ] v1.2.8 - no download link **(for obvious reasons)**
+
+Thanks for providing me a goodtime, mr. @MjTs140914. Hope you keep up the good work ;)
