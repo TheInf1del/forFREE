@@ -4,8 +4,8 @@
 
 
 I proudly present you:
-- [x] PES CPK Solution (CPK Protection/Locker app)
-  * v7.6.1 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.6.1)
+- PES CPK Solution (CPK Protection/Locker app)
+  * [x] v7.6.1 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.6.1)
   * v7.6.2 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.6.2)
   * v7.6.7 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.6.7)
   * v7.7.3 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.7.3)
