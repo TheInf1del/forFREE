@@ -21,8 +21,8 @@ I proudly present you:
   * [ ] v1.3.5 - no download link **(for obvious reasons)**
  
 - NEW! Sourcecodes for PES CPK Solution:
-  * [x] v3 - https://github.com/TheInf1del/forFREE/tree/main/Source/PES%20CPK%20Solution%20-%20v3
-  * [x] v5 - https://github.com/TheInf1del/forFREE/tree/main/Source/PES%20CPK%20Solution%20-%20v5
-  * [x] v6 - https://github.com/TheInf1del/forFREE/tree/main/Source/PES%20CPK%20Solution%20-%20v6
+  * [x] v3 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/Source/PES%20CPK%20Solution%20-%20v3)
+  * [x] v5 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/Source/PES%20CPK%20Solution%20-%20v5)
+  * [x] v6 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/Source/PES%20CPK%20Solution%20-%20v6)
 
 Thanks for providing me a goodtime, mr. @MjTs140914. Hope you keep up the good work ;)
