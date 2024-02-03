@@ -1,0 +1,154 @@
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peshome Patch\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - NF PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Marceu\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Peruvian Patch\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Geo_Criag90\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Reda Ghazal\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Gembox\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - PES LATIN PATCH\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - Bitbox\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - DNB FACE\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PES CPK Solution.vbprojAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.CoreCompileInputs.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\PES CPK Solution\obj\Debug\PES CPK Solution.vbproj.CopyComplete

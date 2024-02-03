@@ -1,0 +1,3 @@
+C:\Users\toor\Desktop\PES CPK Solution - v3\PES CPK Solution\obj\Release\PES CPK Solution.vbproj.AssemblyReference.cache
+C:\Users\toor\Desktop\PES CPK Solution - v3\PES CPK Solution\obj\Release\PESCPKSolution.Resources.resources
+C:\Users\toor\Desktop\PES CPK Solution - v3\PES CPK Solution\obj\Release\PES CPK Solution.vbproj.GenerateResource.cache

@@ -1,0 +1,28 @@
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MainForm.resources
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SkinSoft.VisualStyler.dll
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SkinSoft.VisualStyler.xml
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\mjts-140914\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\bin\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\bin\Debug\SkinSoft.VisualStyler.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\bin\Debug\SkinSoft.VisualStyler.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\obj\Debug\PESCPKSolution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\obj\Debug\PESCPKSolution.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\obj\Debug\PES CPK Solution.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - MjTs\WindowsApplication1\obj\Debug\PES CPK Solution.pdb
