@@ -1,0 +1,118 @@
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES CPK Solution.csprojAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES_CPK_Solution.Properties.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES CPK Solution.csproj.GenerateResource.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES CPK Solution.csproj.CoreCompileInputs.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES CPK Solution.exe.licenses
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES_CPK_Solution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.BonusSkins.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Data.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Utils.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.XtraBars.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Data.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Utils.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.XtraBars.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution\PES CPK Solution\obj\Debug\PES CPK Solution.csproj.CopyComplete
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\PES CPK Solution.exe.config
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\PES CPK Solution.pdb
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.BonusSkins.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Data.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Utils.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.XtraBars.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Data.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Utils.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.XtraBars.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES CPK Solution.csprojAssemblyReference.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES_CPK_Solution.MainForm.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES_CPK_Solution.Properties.Resources.resources
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES CPK Solution.csproj.GenerateResource.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES CPK Solution.exe.licenses
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES CPK Solution.csproj.CoreCompileInputs.cache
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES CPK Solution.csproj.CopyComplete
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES CPK Solution.exe
+E:\My Data\Visual Studio 2015\Projects\PES CPK Solution - v5\PES CPK Solution\obj\Debug\PES CPK Solution.pdb
