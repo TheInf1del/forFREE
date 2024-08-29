@@ -10,6 +10,7 @@ I proudly present you:
   * [x] v7.6.7 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.6.7)
   * [x] v7.7.3 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.7.3)
   * [x] v7.7.7 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.7.7)
+  * [x] v7.7.8 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/PES%20CPK%20Solution/v7.7.8)
 - MjTS Texture Converter (Texture processing tool)
   * [x] v2.1.3.0 - [DOWNLOAD](https://github.com/TheInf1del/forFREE/tree/main/MJTS%20Texture%20Converter%20Tools/v2.1.3.0)
   * [ ] v3.0.4 - no download link **(too lazy to upload)**
